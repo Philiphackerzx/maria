@@ -9,4 +9,5 @@ clear
 echo 
 echo 'Database Ready ✓ Starting Database ...'
 sleep 3.5
+clear
 mysql -u $(whoami)
